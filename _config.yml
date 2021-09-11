@@ -164,7 +164,7 @@ links:
   - blog:
       name: Blog
       show: true
-      href: http://host.domain/your_blog
+      href: http://miguelherraez.github.io/blog
       icon: fas fa-book-open
   - email:
       name: Email
