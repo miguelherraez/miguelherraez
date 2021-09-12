@@ -17,7 +17,7 @@ name: Miguel Herraez
 subtitle: Ingeniero de Computadores
 
 # Title attribute of HTML Page, uses 'name' from above if empty
-title: 'name'
+title: 'Miguel Herraez'
 
 # Information for web crawlers / Google, all of them optional
 # 'description' and 'keywords' simply set the corresponding meta tags,
@@ -109,7 +109,7 @@ links:
   - instagram:
       name: Instagram
       show: true
-      href: https://instagram.com/miguelhs
+      href: https://instagram.com/miguelhs_
       icon: fab fa-instagram
   - flickr:
       name: Flickr
